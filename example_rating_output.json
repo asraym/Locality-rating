@@ -1,0 +1,42 @@
+{
+  "locality": "Whitefield, Bangalore",
+  "final_score": 70.16,
+  "confidence": 93.5,
+  "confidence_level": "High",
+  "recommendation": "HOLD",
+  "reasoning": "Decent potential but monitor trends",
+  "component_scores": {
+    "sentiment": 70.83,
+    "infrastructure": 80,
+    "real_estate": 65,
+    "developers": 80,
+    "projects": 78.0,
+    "amenities": 21.17,
+    "crime": 75
+  },
+  "key_insights": [
+    "Good user engagement (245 mentions)",
+    "Improving sentiment trend",
+    "Good metro connectivity (2.5km)",
+    "Multiple hospitals nearby (4)",
+    "Good educational infrastructure (8 schools)",
+    "Good price appreciation (12.5% YoY)",
+    "Strong developer presence (4 reputed brands)",
+    "Metro planned (construction)",
+    "It Park planned (2 years)",
+    "Good restaurants availability"
+  ],
+  "risks": [
+    "Above city average pricing"
+  ],
+  "weights_used": {
+    "sentiment": 0.2,
+    "infrastructure": 0.25,
+    "real_estate": 0.2,
+    "developers": 0.15,
+    "projects": 0.1,
+    "amenities": 0.08,
+    "crime": 0.02
+  },
+  "timestamp": "2026-02-13T22:49:25.744019"
+}

@@ -1,0 +1,8 @@
+{
+  "google_maps_api_key": "AIzaSyDCj00VxrcWSGnnn7A7kAf6g40_LzlKqVk",
+  "reddit_client_id": "OUR_REDDIT_CLIENT_ID",
+  "reddit_client_secret": "YOUR_REDDIT_SECRET",
+  "reddit_user_agent": "locality_rater/1.0",
+  "news_api_key": "84f65c7d942741f9aae7cfcf36c97662",
+  "twitter_bearer_token": "YOUR_TWITTER_TOKEN"
+}

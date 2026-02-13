@@ -1,0 +1,31 @@
+{
+  "locality": "Connaught Place, DELHI",
+  "final_score": 27.5,
+  "confidence": 72.0,
+  "confidence_level": "Medium",
+  "recommendation": "AVOID",
+  "reasoning": "Weak fundamentals or insufficient data",
+  "component_scores": {
+    "sentiment": 50.0,
+    "infrastructure": 20,
+    "real_estate": 35,
+    "developers": 30,
+    "projects": 0,
+    "amenities": 0.0,
+    "crime": 50
+  },
+  "key_insights": [],
+  "risks": [
+    "Negative price growth (0.0% YoY)"
+  ],
+  "weights_used": {
+    "sentiment": 0.2,
+    "infrastructure": 0.25,
+    "real_estate": 0.2,
+    "developers": 0.15,
+    "projects": 0.1,
+    "amenities": 0.08,
+    "crime": 0.02
+  },
+  "timestamp": "2026-02-13T23:56:57.028126"
+}
