@@ -12,7 +12,7 @@ import os
 # Add backend to path so imports work
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'backend'))
 
-from components.sentiment import get_sentiment_score, get_detailed_sentiment
+from backend.components.sentiment import get_sentiment_score, get_detailed_sentiment
 
 
 def main():
