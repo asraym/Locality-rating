@@ -11,8 +11,8 @@ Files:
     collector.py  — Reddit API data collection (RedditCollector)
 """
 
-from .analyzer import SentimentAnalyzer, analyze_locality_sentiment
-from .collector import RedditCollector, collect_reddit_sentiment
+from .Analyzer import SentimentAnalyzer, analyze_locality_sentiment
+from .Collector import RedditCollector, collect_reddit_sentiment
 from typing import Dict, List, Tuple
 import logging
 
